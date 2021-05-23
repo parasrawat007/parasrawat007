@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+🌱 I’m currently learning
+📫 How to reach me: parasrawat67@gmail.com
 <!--
 **parasrawat007/parasrawat007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
