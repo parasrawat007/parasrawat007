@@ -1,6 +1,9 @@
 ### Hi there 👋
-### 🌱 I’m currently learning Restful API
-### 📫 How to reach me: parasrawat67@gmail.com
+- 🌱 I’m currently learning Client Side Development using JQuery with Web Api
+- ✨ Speciality : I have knowledge of nothing and everything at the same time
+- 📫 How to reach me: parasrawat67@gmail.com
+- ⚡ Fun fact: People lies but Code doesn't
+
 <!--
 **parasrawat007/parasrawat007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
