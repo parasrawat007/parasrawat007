@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently learning Client Side Development using JQuery with Web Api
+- 🌱 I’m currently preparing For Exams
 - ✨ Speciality : I have knowledge of nothing and everything at the same time
 - 📫 How to reach me: parasrawat67@gmail.com
 - ⚡ Fun fact: People lies but Code doesn't
