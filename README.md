@@ -4,7 +4,7 @@
 - 📫 How to reach me: parasrawat67@gmail.com
 - ⚡ Fun fact: People lies but Code doesn't
 
-<iframe width="853" height="480" src='https://www.youtube.com/embed/IeI6xkhKvGs'>
+<iframe width="500" height="200" src='https://www.youtube.com/embed/IeI6xkhKvGs'>
 
 </iframe>
 <!--
