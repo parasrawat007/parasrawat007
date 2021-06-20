@@ -6,12 +6,8 @@
 - 📫 How to reach me: parasrawat67@gmail.com
 - ⚡ Fun fact: People lies but Code doesn't
 
-
-
-    https://user-images.githubusercontent.com/43989710/122663331-3c8c9a80-d1b7-11eb-9d23-feac455b4cea.mp4
-
-
-
+<video src="https://user-images.githubusercontent.com/43989710/122663331-3c8c9a80-d1b7-11eb-9d23-feac455b4cea.mp4" data-canonical-src="https://user-images.githubusercontent.com/43989710/122663331-3c8c9a80-d1b7-11eb-9d23-feac455b4cea.mp4" controls="controls"  class="d-block rounded-bottom-2 width-fit" style="max-height:640px; width :auto;">
+</video>
 
 <!--
 **parasrawat007/parasrawat007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
