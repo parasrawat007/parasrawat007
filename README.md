@@ -6,7 +6,7 @@
 - 📫 How to reach me: parasrawat67@gmail.com
 - ⚡ Fun fact: People lies but Code doesn't
 
-https://user-images.githubusercontent.com/43989710/122663062-6fce2a00-d1b5-11eb-8002-ff3c8f15ec15.mp4
+  Uploading Silent.mp4…
 
 
 <!--
