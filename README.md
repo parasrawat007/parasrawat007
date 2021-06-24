@@ -1,7 +1,7 @@
 
 
 ### Hi there 👋
-- 🌱 I’m currently preparing For Exams
+- 🌱 I’m currently learning CSS
 - ✨ Speciality : I have knowledge of nothing and everything at the same time
 - 📫 How to reach me: parasrawat67@gmail.com
 - ⚡ Fun fact: People lies but Code doesn't
