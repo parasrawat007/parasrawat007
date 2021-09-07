@@ -1,7 +1,7 @@
 
 
 ### Hi there 👋
-- 🌱 I’m currently learning ASP.NET CORE BLAZOR
+- 🌱 I’m currently learning ASP.NET CORE BLAZOR .NET 5
 - ✨ Speciality : I have knowledge of nothing and everything at the same time
 - 📫 How to reach me: parasrawat67@gmail.com
 - ⚡ Fun fact: People lies but Code doesn't
