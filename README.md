@@ -1,10 +1,9 @@
 
 
-### Hi there 👋
-- 🌱 I’m currently learning ASP.NET CORE BLAZOR .NET 5
-- ✨ Speciality : I have knowledge of nothing and everything at the same time
-- 📫 How to reach me: parasrawat67@gmail.com
-- ⚡ Fun fact: People lies but Code doesn't
+### Hi there 
+- 📫 Email: parasrawat67@gmail.com
+
+### Self Motivation
 
 <video src="https://user-images.githubusercontent.com/43989710/122663331-3c8c9a80-d1b7-11eb-9d23-feac455b4cea.mp4" data-canonical-src="https://user-images.githubusercontent.com/43989710/122663331-3c8c9a80-d1b7-11eb-9d23-feac455b4cea.mp4" controls="controls"  class="d-block rounded-bottom-2 width-fit" style="max-height:640px; max-width:16rem;">
 </video>
